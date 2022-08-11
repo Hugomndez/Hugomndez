@@ -8,8 +8,6 @@
 
 ### :man_technologist: About Me :
 
-I am a Front-End Developer from Mexico.
-
 - :telescope: 
 
 - :seedling: 
