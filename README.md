@@ -6,13 +6,13 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: I’m Hugo, welcome to my GitHub profile:
 
-- :telescope: 
+- :telescope: I've been working in JavaScript primarily for over 2 years
 
-- :seedling: 
+- :seedling: I’m learning tRPC and Prisma at the moment
 
-- :zap: 
+- :zap: You can go to my portfolio on [hugomendez.dev](https://hugomendez.dev)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugomndez/)
 
